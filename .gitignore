@@ -1,6 +1,6 @@
 # Build outputs
-tosconv
-tosconv.exe
+/tosconv
+/tosconv.exe
 dist/
 
 # IDE
