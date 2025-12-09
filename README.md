@@ -17,10 +17,6 @@ TouchOSC layouts are stored as `.tosc` files, which are simply **zlib-compressed
 go install github.com/conormkelly/tosc-converter/cmd/tosconv@latest
 ```
 
-### From releases
-
-Download the appropriate binary from the [releases page](https://github.com/conormkelly/tosc-converter/releases).
-
 ## Usage
 
 ```bash
