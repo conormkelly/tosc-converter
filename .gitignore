@@ -1,0 +1,18 @@
+# Build outputs
+tosconv
+tosconv.exe
+dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test outputs
+*.test
+coverage.out
